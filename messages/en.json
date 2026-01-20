@@ -1,0 +1,46 @@
+{
+    "Hero": {
+      "greeting": "Hi, I'm",
+      "downloadCv": "Download CV",
+      "contact": "Get in Touch"
+    },
+    "Nav": {
+      "projects": "Projects",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "Projects": {
+    "title": "Selected Projects",
+    "viewCode": "View Code",
+    "viewLive": "Live Demo"
+    },
+    "Skills": {
+      "title": "Tech Arsenal",
+      "subtitle": "Tools and technologies I use to build and secure."
+    },
+    "Experience": {
+      "title": "Professional Journey",
+      "education": "Education",
+      "work": "Experience"
+    },
+    "Certifications": {
+      "title": "Certifications & Courses",
+      "subtitle": "Continuous learning and specialization",
+      "verify": "Verify Credential"
+    },
+    "Footer": {
+      "brandDescription": "Building secure digital solutions and flawless user experiences. Focused on performance, privacy, and design.",
+      "navTitle": "Navigation",
+      "contactTitle": "Contact",
+      "rights": "© {year} Pedro. Code is Poetry & Security is Priority."
+    },
+    "FeaturedProject": {
+      "badge": "Graduation Thesis (Featured)",
+      "titlePrefix": "Intrusion Detection with",
+      "description": "Development of an offensive and defensive security architecture using 3 VMs (Debian, Ubuntu, Windows). The system captures threats in a controlled environment and uses the Random Forest algorithm to classify malicious files in real-time with 98% accuracy.",
+      "stat1Label": "Overall Accuracy",
+      "stat2Label": "Files Analyzed",
+      "stat3Label": "Response Time",
+      "button": "Read Full Documentation"
+    }
+  }

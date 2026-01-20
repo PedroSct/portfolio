@@ -1,0 +1,46 @@
+{
+    "Hero": {
+      "greeting": "Olá, eu sou",
+      "downloadCv": "Baixar Currículo",
+      "contact": "Entrar em Contato"
+    },
+    "Nav": {
+      "projects": "Projetos",
+      "about": "Sobre",
+      "contact": "Contato"
+    },
+    "Projects": {
+      "title": "Projetos Selecionados",
+      "viewCode": "Ver Código",
+      "viewLive": "Ver Online"
+    },
+    "Skills": {
+      "title": "Arsenal Tecnológico",
+      "subtitle": "Ferramentas e tecnologias que utilizo para construir e proteger."
+    },
+    "Experience": {
+      "title": "Jornada Profissional",
+      "education": "Educação",
+      "work": "Experiência"
+    },
+    "Certifications": {
+      "title": "Certificações & Cursos",
+      "subtitle": "Aprendizado contínuo e especialização",
+      "verify": "Verificar Credencial"
+    },
+    "Footer": {
+      "brandDescription": "Construindo soluções digitais seguras e experiências de usuário impecáveis. Foco em performance, privacidade e design.",
+      "navTitle": "Navegação",
+      "contactTitle": "Contato",
+      "rights": "© {year} Pedro. Code is Poetry & Security is Priority."
+    },
+    "FeaturedProject": {
+      "badge": "Trabalho de Graduação (Destaque)",
+      "titlePrefix": "Detecção de Intrusão com",
+      "description": "Desenvolvimento de uma arquitetura de segurança ofensiva e defensiva utilizando 3 VMs (Debian, Ubuntu, Windows). O sistema captura ameaças em um ambiente controlado e utiliza o algoritmo Random Forest para classificar arquivos maliciosos em tempo real com 98% de precisão.",
+      "stat1Label": "Acurácia Geral",
+      "stat2Label": "Arquivos Analisados",
+      "stat3Label": "Tempo de Resposta",
+      "button": "Ler Documentação Completa"
+    }
+  }

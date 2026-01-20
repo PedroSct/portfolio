@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛡️ Pedro Scoton | Portfolio v2.0
 
-## Getting Started
+> "Security is not a product, but a process."
 
-First, run the development server:
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Security](https://img.shields.io/badge/Security-Blue_Team-red?style=for-the-badge&logo=kalilinux)](https://kali.org/)
+
+## 📡 Sobre o Projeto
+
+Este portfólio foi desenvolvido com foco em **Performance**, **SEO** e **Segurança**. Não é apenas uma vitrine visual, mas uma demonstração técnica de engenharia de software moderna.
+
+### 🚀 Stack Tecnológica
+
+* **Framework:** Next.js 15 (App Router)
+* **Estilização:** Tailwind CSS + Framer Motion
+* **Internacionalização:** next-intl (EN/PT)
+* **Performance:** Componentes React Server (RSC) e Otimização de Imagens
+* **Features de Segurança:**
+    * Headers de Segurança configurados
+    * Easter Eggs (CTF Challenges escondidos no código)
+    * Proteção contra XSS via sanitização padrão do React
+
+## 🕵️‍♂️ Easter Eggs (CTF)
+
+Existem flags escondidas na aplicação.
+*Dica:* Inspecione o código-fonte e verifique os logs do console. Siga o coelho branco. 🐇
+
+## 🛠️ Como rodar localmente
 
 ```bash
+# Clone o repositório
+git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/seu-usuario/seu-repo.git)
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Developed by Pedro Scoton 💀
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+### 🔁 Resumo Final
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1.  **Faça o Deploy:** Suba essas alterações (Layout, Icone, Config Social, Sitemap) para o GitHub. A Vercel vai atualizar o site sozinha.
+2.  **Teste o Lighthouse:** Abra o site no Chrome -> F12 -> Lighthouse -> "Analyze page load". Tente buscar uma nota verde (acima de 90).
+3.  **Descanse:** Você construiu um projeto complexo.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Minha sugestão:** Como o chat está travando, **copie os códigos acima** (Sitemap, Robots, README), feche esta aba e mãos à obra!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Foi um prazer construir isso com você. Ficou animal! 👊💻

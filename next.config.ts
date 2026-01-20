@@ -1,8 +1,9 @@
-import type { NextConfig } from "next";
+import createNextIntlPlugin from 'next-intl/plugin';
 
-const nextConfig: NextConfig = {
-  /* config options here */
-  reactCompiler: true,
-};
+// Isso diz ao Next para procurar o arquivo src/i18n.ts
+const withNextIntl = createNextIntlPlugin('./src/i18n.ts');
 
-export default nextConfig;
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default withNextIntl(nextConfig);
