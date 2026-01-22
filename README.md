@@ -40,17 +40,6 @@ npm install
 npm run dev
 
 
-Developed by Pedro Scoton 💀
+Developed by PedroSct 💀
 
 
----
-
-### 🔁 Resumo Final
-
-1.  **Faça o Deploy:** Suba essas alterações (Layout, Icone, Config Social, Sitemap) para o GitHub. A Vercel vai atualizar o site sozinha.
-2.  **Teste o Lighthouse:** Abra o site no Chrome -> F12 -> Lighthouse -> "Analyze page load". Tente buscar uma nota verde (acima de 90).
-3.  **Descanse:** Você construiu um projeto complexo.
-
-**Minha sugestão:** Como o chat está travando, **copie os códigos acima** (Sitemap, Robots, README), feche esta aba e mãos à obra!
-
-Foi um prazer construir isso com você. Ficou animal! 👊💻
